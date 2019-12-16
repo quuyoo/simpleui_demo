@@ -10,7 +10,7 @@ simpleui 是一个django admin的ui框架，与代码无关。
 ## 第一步
 下载源码到本地
 ```shell
-git clone https://github.com/newpanjing/simpleui_demo
+git clone https://github.com/quuyoo/simpleui_demo.git
 ```
 
 ## 第二步
